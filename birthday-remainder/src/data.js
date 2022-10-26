@@ -4,12 +4,12 @@ export default [
       name: 'Adhyan',
       age: '16 September',
       image:
-        'https://i.ibb.co/09HMwsy/adhyan.jpg',
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     },
     {
       id: 2,
       name: 'Ashish',
-      age: 32,
+      age: 'NIL',
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
     },
@@ -25,21 +25,21 @@ export default [
       name: 'Ali',
       age: '25 October',
       image:
-        'https://i.ibb.co/n08KYp5/ali.jpg',
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     },
     {
       id: 5,
       name: 'Ankit',
       age: '11 July',
       image:
-        'https://i.ibb.co/CbgfWzw/ankit.jpg',
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     },
 
     {
         id: 6,
         name: 'Bhavya',
         age: '23 July',
-        image: 'https://i.ibb.co/RjbgmCc/bhavya.jpg'
+        image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg'
     },
 
     {
@@ -61,14 +61,14 @@ export default [
         id: 9,
         name: 'Varun',
         age: '28 December',
-        image: 'https://i.ibb.co/dDSnx3M/varun.jpg'
+        image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg'
     },
 
     {
         id: 10,
         name: 'Vaibhav',
         age: '7 January',
-        image: 'https://i.ibb.co/YWjpVZ8/vaibhav.jpg'
+        image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg'
     },
 
   ];
